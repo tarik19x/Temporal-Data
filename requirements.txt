@@ -11,3 +11,4 @@ ninja==1.11.1
 gradio==3.35.2
 pydub==0.25.1
 ffmpeg==1.4
+openpyxl
