@@ -14,4 +14,7 @@ gradio
 pydub
 ffmpeg
 openpyxl
+ipykernel
+jupyter_server
+nbconvert
 voila
