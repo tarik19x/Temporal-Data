@@ -1,2 +1,2 @@
-web: voila index.ipynb --port $PORT --no-browser --Voila.server_ip=0.0.0.0
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --VoilaConfiguration.ip='0.0.0.0' index.ipynb
 
