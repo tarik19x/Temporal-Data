@@ -1,1 +1,1 @@
-web: voila Untitled.ipynb --port $PORT --no-browser
+web: voila index.ipynb --port $PORT --no-browser
